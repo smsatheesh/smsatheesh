@@ -13,3 +13,7 @@
 
  ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/?size=50&id=S7tOM4UjUKfO&format=png&color=000000" />
+
+![Sm Satheesh GitHub Status](https://github-readme-stats.vercel.app/api?username=smsatheesh&theme=dark&show_icons=true&&hide=issues,contribs)
+
+![Sm Satheesh Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smsatheesh&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
