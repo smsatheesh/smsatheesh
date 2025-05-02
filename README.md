@@ -16,4 +16,4 @@
 
 ![Sm Satheesh GitHub Status](https://github-readme-stats.vercel.app/api?username=smsatheesh&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![Sm Satheesh Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smsatheesh&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Sm Satheesh Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smsatheesh&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)]
